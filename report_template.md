@@ -20,13 +20,13 @@ Which plants did you select and why ?
 
 ### Sample collection
 
-- Where we the plants collected ? 
+- Where were the plants collected ? 
 - Which species were collected ? 
 - Link to the iNaturalist entries of your species.
 
 You can link a csv that you upload on github.
 Go to the export link of the DBGI project on inaturalist https://www.inaturalist.org/observations/export?projects=digital-botanical-gardens-initiative
-Apply eventual filters (fo rexample by username)
+Apply eventual filters (for example by username)
 Save the csv and upload to github.
 
 

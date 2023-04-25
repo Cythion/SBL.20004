@@ -1,10 +1,10 @@
-# SBL.20004.2022
+# SBL.20004.2023
 
 
 
 ## 👋 Hello !
 
-This repo groups material for the SBL.20004 teachings in 2022 spring semester. See https://www.unifr.ch/timetable/en/course.html?show=104013
+This repo groups material for the SBL.20004 teachings in 2023 spring semester. See https://www.unifr.ch/timetable/en/course.html?show=104013
 
 ## 🔗 Useful links
 
