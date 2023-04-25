@@ -71,7 +71,7 @@ Profiling data on the Q-Exactive are available here https://drive.switch.ch/inde
 - Download Filezilla https://filezilla-project.org/download.php?type=client
 - Download Cytoscape https://cytoscape.org/ Download version 3.82 as the latest one still has bugs regarding color mapping options https://github.com/cytoscape/cytoscape/releases/3.8.2/
 
-### Docuemntation
+### Documentation
 
 Have a detailed look at the excellent FBMN documentation https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
 
