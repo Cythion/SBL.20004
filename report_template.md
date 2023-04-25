@@ -13,7 +13,7 @@ Group X
 
 ## Introduction
 
-Some words on the backgorund of your projects.
+Some words on the background of your projects.
 Which plants did you select and why ?
 
 ## Material & Methods

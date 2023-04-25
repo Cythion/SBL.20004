@@ -62,7 +62,7 @@ Apart form this you can add any additional metadata you would like to map. E.g e
 
 ### MS Data
 
-Profiling data on the Q-Exactive are available here https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
+Profiling data on the Q-Exactive are available here https://drive.switch.ch/index.php/s/4vlNZhrD0QcDJnh
 
 ### Requirements for data treatment session
 
@@ -70,6 +70,10 @@ Profiling data on the Q-Exactive are available here https://drive.switch.ch/inde
 - Download MzMine 2.53 https://github.com/mzmine/mzmine2/releases
 - Download Filezilla https://filezilla-project.org/download.php?type=client
 - Download Cytoscape https://cytoscape.org/ Download version 3.82 as the latest one still has bugs regarding color mapping options https://github.com/cytoscape/cytoscape/releases/3.8.2/
+
+### Docuemntation
+
+Have a detailed look at the excellent FBMN documentation https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
 
 ## Report preparation
 
