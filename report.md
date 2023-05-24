@@ -20,7 +20,9 @@ Which plants did you select and why ?
 
 ### Sample collection
 
-- Where were the plants collected ? 
+- Collection site(s):
+    - Botanical garden of the University of Fribourg
+
 - Collected species: 
     - Delphinium elatum
     - Delphinium caucasicum
@@ -35,7 +37,8 @@ Which plants did you select and why ?
     - Aconitum napellus
     - Aconitum variegatum
     - Aconitum vulparia 
-- Link to the iNaturalist entries of your species.
+
+- iNaturalist entries.
     - [Observation Data](https://github.com/Cythion/SBL.20004/blob/main/data/observations-328542.csv)
 
 
