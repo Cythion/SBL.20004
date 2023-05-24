@@ -1,6 +1,0 @@
-filename	ATTRIBUTE_Species	ATTRIBUTE_XXX_iNat_id	ATTRIBUTE_XXX	ATTRIBUTE_YYY
-YYYYMMDD_groupX_DBGI_XX_XX_blank	ND	ND	ND	Blank
-YYYYMMDD_groupX_DBGI_XX_XX_01	Species speciosus	https://www.inaturalist.org/observations/xxxxxx	Gp_A	MeOH
-YYYYMMDD_groupX_DBGI_XX_XX_02	Species speciosus	https://www.inaturalist.org/observations/xxxxxx	Gp_B	MeOH
-YYYYMMDD_groupX_DBGI_XX_XX_03	Species superspeciocus	https://www.inaturalist.org/observations/xxxxxy	Gp_A	MeOH
-YYYYMMDD_groupX_DBGI_XX_XX_04	Species superspeciocus	https://www.inaturalist.org/observations/xxxxxy	Gp_B	MeOH
