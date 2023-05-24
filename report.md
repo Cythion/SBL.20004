@@ -29,8 +29,8 @@ Aconitine is a neurotoxin, found in Aconitum and Delphinium plants, that acts on
 - Collection site(s):
     - Botanical garden of the University of Fribourg
 - Collected species: 
-    - Delphinium elatum 
-    - Delphinium caucasicum
+    - Delphinium elatum (14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine et nudicauline)
+    - Delphinium caucasicum ()
     - Ranunculus auicomus
     - Ranunculus aconitifolius
     - Ranunculus repens
