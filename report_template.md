@@ -21,7 +21,7 @@ Which plants did you select and why ?
 ### Sample collection
 
 - Where were the plants collected ? 
-- Which species were collected ? 
+- Collected species: 
     - Delphinium elatum
     - Delphinium caucasicum
     - Ranunculus auicomus
