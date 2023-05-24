@@ -36,7 +36,7 @@ Which plants did you select and why ?
     - Aconitum variegatum
     - Aconitum vulparia 
 - Link to the iNaturalist entries of your species.
-    - [Observation Data](:/data/observations-328542.csv)
+    - [Observation Data](https://github.com/Cythion/SBL.20004/blob/main/data/observations-328542.csv)
 
 You can link a csv that you upload on github.
 Go to the export link of the DBGI project on inaturalist https://www.inaturalist.org/observations/export?projects=digital-botanical-gardens-initiative
