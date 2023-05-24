@@ -22,7 +22,6 @@ Which plants did you select and why ?
 
 - Collection site(s):
     - Botanical garden of the University of Fribourg
-
 - Collected species: 
     - Delphinium elatum
     - Delphinium caucasicum
@@ -37,7 +36,6 @@ Which plants did you select and why ?
     - Aconitum napellus
     - Aconitum variegatum
     - Aconitum vulparia 
-
 - iNaturalist entries.
     - [Observation Data](https://github.com/Cythion/SBL.20004/blob/main/data/observations-328542.csv)
 
