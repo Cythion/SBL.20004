@@ -16,7 +16,12 @@ Group A
 Some words on the background of your projects.
 Which plants did you select and why ?
 
-Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using a different strategy to deal with adversaries, toxic compounds. Toxins allow the plant to defend against potential predators by disincentivicing its consumption. 
+Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using toxins to deal with adversaries. These compounds allow the plant to defend against potential predators by disincentivicing consumption. 
+
+One of these toxic compunds, used by plants is aconitine a neurotoxin, found in Aconitum, that acts on sodium-ion channels and inhibits conformational changes of the channel protein. This inhibition blocks membrane repolerization and without membrane potential neurons are no longer able to work. Exposure to a high concentration of aconitine can lead to paralysis. 
+
+Aconitum are hardly the only toxic plants in nature and others exist that also target neurons with their toxic compunds, but the mode of action of these toxins may vary from plant to plant and this is one of the questions that we were interested in: Are there common overslaps in plant metabolites between toxic species and what are they.  
+
 
 
 
@@ -27,8 +32,8 @@ Plants are one of the least mobile organisms on this planet and this can pose a 
 - Collection site(s):
     - Botanical garden of the University of Fribourg
 - Collected species: 
-    - Delphinium elatum 
-    - Delphinium caucasicum
+    - Delphinium elatum (14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline)
+    - Delphinium caucasicum ()
     - Ranunculus auicomus
     - Ranunculus aconitifolius
     - Ranunculus repens
@@ -92,8 +97,7 @@ A link to the final feature list (uploaded to github).
 ### Molecular Network
 
 - Link to the [GNPS job](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=54c7e463fe00492a9984c160219fb1d6).
-- Not sure if this is the correct link!!! 
-    - Link to the [GNPS identification table](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=54c7e463fe00492a9984c160219fb1d6&view=view_all_annotations_DB).
+- Link to the [GNPS identification table](https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=54c7e463fe00492a9984c160219fb1d6&view=view_all_annotations_DB).
 
 ## Conclusion
 
