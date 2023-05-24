@@ -62,12 +62,24 @@ Plants are one of the least mobile organisms on this planet and this can pose a 
 
 ### Data treatment
 
-- MZ-Mine [MZ-Mine file]()
-- GNPS 
+- MZ-Mine [MZ-Mine file](https://github.com/Cythion/SBL.20004/blob/main/MZ_mine_all.mgf)
+    1. Data Import
+    2. MS peak detection
+    3. Chromatogram building 
+    4. Chromatogram deconvolution <!--For: Peak identification, Improove peak shape ect by adding the time factor of LC == 3D -->
+    5. Isotope grouping
+    6. Feature alignment
+    7. Manual vlaidation 
+    8. File export for visualization 
+
+- GNPS [GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=54c7e463fe00492a9984c160219fb1d6)
+    1. Annotation [Annotation] ()
+
 
 ### Data visualization 
 
 - Cytoscape 
+    1. Visualization of molecular network 
 ## Results
 
 
