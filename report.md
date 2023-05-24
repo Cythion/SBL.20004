@@ -15,7 +15,10 @@ Group A
 
 Some words on the background of your projects.
 Which plants did you select and why ?
-In nature there exist very many defense systems to guard against preditors and one of the most common systems used are poisons and toxins. One of those toxic molecules is 
+
+Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using a different strategy to deal with adversaries, toxic compounds. Toxins allow the plant to defend against potential predators by disincentivicing its consumption. 
+
+
 
 ## Material & Methods
 
@@ -45,10 +48,11 @@ In nature there exist very many defense systems to guard against preditors and o
 
 1. 50mg dried plant leaves were weight into a 2mL Eppendorf tube.
 2. 3 metal beads were loaded together with the leaves.
-3. xxmL lysis solution (pls complete me) were added to each tube and mixed.
-4. Samples were lysed for xxmin at xxrpm. 
-5. Part of the supernatant was then transferred into a glass vial for the measurement and part was storred in another vial as reserve.
-6. Samples were then measured in the LC-MS. 
+3. Lysed cells in ball mill for 2.5min at 25 Hertz 
+4. 1.7mL extraction solvent (20% water, 80% MetOH, 0.1% formic acid) were added to each tube and mixed.
+5. Samples were mixed again in the bell mill for 2.5min at 25 Hertz. 
+6. Part of the supernatant was then transferred into a glass vial for the measurement and part was storred in another vial as reserve.
+7. Samples were then measured in the LC-MS. 
 
 ### LCMS Analysis
 
@@ -87,4 +91,4 @@ Some conclusion that you could get out of this preliminary study.
 
 Note that you can make a footnote like this [^1]
 
-[^1]: Ref X
+[^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
