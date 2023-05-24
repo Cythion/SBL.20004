@@ -15,6 +15,7 @@ Group A
 
 Some words on the background of your projects.
 Which plants did you select and why ?
+In nature there exist very many defense systems to guard against preditors and one of the most common systems used are poisons and toxins. One of those toxic molecules is 
 
 ## Material & Methods
 
