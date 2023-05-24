@@ -67,7 +67,7 @@ Aconitum are hardly the only toxic plants in nature and others exist that also t
 
 ### Data treatment
 
-- MZ-Mine [MZ-Mine file](https://github.com/Cythion/SBL.20004/blob/main/MZ_mine_all.mgf)
+- MZ-Mine [MZ-Mine File](https://github.com/Cythion/SBL.20004/blob/main/MZ_mine_all.mgf)
     1. Data Import
     2. MS peak detection
     3. Chromatogram building 
@@ -78,20 +78,20 @@ Aconitum are hardly the only toxic plants in nature and others exist that also t
     8. File export for visualization 
 
 - GNPS [GNPS](https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=54c7e463fe00492a9984c160219fb1d6)
-    1. Annotation [Annotation] ()
+    1. Annotation [Annotation File](https://github.com/Cythion/SBL.20004/blob/main/all_annotations.csv)
+
 
 
 ### Data visualization 
 
 - Cytoscape 
-    1. Visualization of molecular network 
+    1. Visualization of molecular network [Molecular Newtork File]()
 ## Results
 
 
 ### MS1
 
-How many features could you clean in your final peak list ?
-A link to the final feature list (uploaded to github).
+There have been arround 3500 hits
 [Final feature list](https://github.com/Cythion/SBL.20004/blob/main/data/Final_Aligned_Feature_List.csv)
 
 ### Molecular Network
