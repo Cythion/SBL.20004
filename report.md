@@ -32,8 +32,8 @@ Aconitum are hardly the only toxic plants in nature and others exist that also t
 - Collection site(s):
     - Botanical garden of the University of Fribourg
 - Collected species: 
-    - Delphinium elatum 
-    - Delphinium caucasicum
+    - Delphinium elatum (14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline)
+    - Delphinium caucasicum ()
     - Ranunculus auicomus
     - Ranunculus aconitifolius
     - Ranunculus repens
