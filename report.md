@@ -24,7 +24,7 @@ In nature there exist very many defense systems to guard against preditors and o
 - Collection site(s):
     - Botanical garden of the University of Fribourg
 - Collected species: 
-    - Delphinium elatum
+    - Delphinium elatum 
     - Delphinium caucasicum
     - Ranunculus auicomus
     - Ranunculus aconitifolius
@@ -58,10 +58,12 @@ In nature there exist very many defense systems to guard against preditors and o
 
 ### Data treatment
 
-- Cytoscape 
-- MZ-Mine 
-- 
+- MZ-Mine [MZ-Mine file]()
+- GNPS 
 
+### Data visualization 
+
+- Cytoscape 
 ## Results
 
 
