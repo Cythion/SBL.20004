@@ -1,13 +1,13 @@
 # Metabolomics analysis report
 SBL.20004 
 
-18.05.2022
+24.05.2023
 
 ----
-Group X
-- Surname Name
-- Surname Name
-- Surname Name
+Group A
+- Edouard BRUELHART
+- Dominic STEINER
+- Cyril JAGGI
 ----
 
 
@@ -22,6 +22,20 @@ Which plants did you select and why ?
 
 - Where were the plants collected ? 
 - Which species were collected ? 
+    - Delphinium elatum
+    - Delphinium caucasicum
+    - Ranunculus auicomus
+    - Ranunculus aconitifolius
+    - Ranunculus repens
+    - Ranunculus gramineus
+    - Ranunculus arvensis
+    - Ranunculus muricatus
+    - Ranunculus acris friesianus
+    - Aconitum carmichaelii
+    - Aconitum napellus
+    - Aconitum variegatum
+    - Aconitum vulparia
+    - 
 - Link to the iNaturalist entries of your species.
 
 You can link a csv that you upload on github.
