@@ -85,4 +85,4 @@ Some conclusion that you could get out of this preliminary study.
 
 Note that you can make a footnote like this [^1]
 
-[^1]: Ref X
+[^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
