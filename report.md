@@ -57,7 +57,9 @@ Which plants did you select and why ?
 
 ### Data treatment
 
-- Describe the software and parameters used.
+- Cytoscape 
+- MZ-Mine 
+- 
 
 ## Results
 
