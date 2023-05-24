@@ -42,7 +42,12 @@ Which plants did you select and why ?
 
 ### Sample preparation
 
-- Describe your sample preparation
+1. 50mg dried plant leaves were weight into a 2mL Eppendorf tube.
+2. 3 metal beads were loaded together with the leaves.
+3. xxmL lysis solution were added to each tube and mixed.
+4. Samples were lysed for xxmin at xxrpm. 
+5. Part of the supernatant was then transferred into a glass vial for the measurement and part was storred in another vial as reserve.
+6. Samples were then measured in the LC-MS. 
 
 ### LCMS Analysis
 
