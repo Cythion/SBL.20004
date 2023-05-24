@@ -16,7 +16,9 @@ Group A
 Some words on the background of your projects.
 Which plants did you select and why ?
 
-Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using a different strategy to deal with adversaries, toxic compounds. Toxins allow the plant to defend against potential predators by disincentivicing its consumption. 
+Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using a different strategy to deal with adversaries, toxic compounds. Toxins allow the plant to defend against potential predators by disincentivicing consumption. 
+
+Aconitine is a neurotoxin, found in Aconitum and Delphinium plants, that acts on sodium-ion channels and inhibits conformational changes of the channel protein. This inhibition blocks membrane repolerization and without this membrane potential neurons are no longer able to work. Exposure to a high concentration of aconitine can lead to paralysis. 
 
 
 
