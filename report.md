@@ -38,13 +38,6 @@ Which plants did you select and why ?
 - Link to the iNaturalist entries of your species.
     - [Observation Data](https://github.com/Cythion/SBL.20004/blob/main/data/observations-328542.csv)
 
-You can link a csv that you upload on github.
-Go to the export link of the DBGI project on inaturalist https://www.inaturalist.org/observations/export?projects=digital-botanical-gardens-initiative
-Apply eventual filters (for example by username)
-Save the csv and upload to github.
-
-
-Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/main/data/observations-238383.csv) 
 
 ### Sample preparation
 
@@ -52,8 +45,8 @@ Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/ma
 
 ### LCMS Analysis
 
-- Describe the LC conditions
-- Describe the MS conditions
+- [LC conditions verbose](https://github.com/Cythion/SBL.20004/blob/main/lc_conditions.txt) 
+- [MS conditions verbose](https://github.com/Cythion/SBL.20004/blob/main/ms_conditions.txt)
 
 ### Data treatment
 
