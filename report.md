@@ -32,19 +32,19 @@ Aconitum are hardly the only toxic plants in nature and others exist that also t
 - Collection site(s):
     - Botanical garden of the University of Fribourg
 - Collected species: 
-    - Delphinium elatum (14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline)
-    - Delphinium caucasicum ()
-    - Ranunculus auicomus
-    - Ranunculus aconitifolius
-    - Ranunculus repens
-    - Ranunculus gramineus
-    - Ranunculus arvensis
-    - Ranunculus muricatus
-    - Ranunculus acris friesianus
-    - Aconitum carmichaelii
-    - Aconitum napellus
-    - Aconitum variegatum
-    - Aconitum vulparia 
+    - Delphinium elatum (14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline) [^4]
+    - Delphinium caucasicum (not available precisely for this species)
+    - Ranunculus auricomus (protoanemonin) [^3]
+    - Ranunculus aconitifolius (few ranunculin, very low toxicity) [^5]
+    - Ranunculus repens (ranunculin) [^6] --> ranunculin disapears when plant is dried, if we don't have it this is normal
+    - Ranunculus gramineus (protoanemonin)
+    - Ranunculus arvensis (protoanemonin)
+    - Ranunculus muricatus (substances have not been isolated, but it's toxicity and medicinal properties have been proven on mices) [^7]
+    - Ranunculus acris friesianus (ranunculin) [^8]
+    - Aconitum carmichaelii (aconitine, mesaconitine, hypaconitine, benzoylaconitine, benzoylmesaconitine, and benzoylhypaconitine) [^9]
+    - Aconitum napellus (aconitine, aconine, capeline, hypoaconitine, jesaconitine, lycaconitine, mésaconitine, néoline, néopelline) [^10] --> one of the most toxic european plants
+    - Aconitum variegatum (no clear information but also very toxic)
+    - Aconitum vulparia (no clear information but also very toxic)
 - iNaturalist entries.
     - [Observation Data](https://github.com/Cythion/SBL.20004/blob/main/data/observations-328542.csv)
 
@@ -103,10 +103,17 @@ There have been arround 3500 hits
 
 Some conclusion that you could get out of this preliminary study.
 
-# References
+## References
 
 Note that you can make a footnote like this [^1]
 
 [^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
 [^2]: https://pubs.rsc.org/en/content/articlehtml/2020/ra/d0ra00813c
-
+[^3]: https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/protoanemonin
+[^4]: https://fr.wikipedia.org/wiki/Delphinium_elatum
+[^5]: https://www.eagff.ch/fr/connaitre-les-plantes-des-prairies/autres-plantes/caracteristiques-par-espece/renoncule-a-feuilles-daconit
+[^6]: https://fr.wikipedia.org/wiki/Renoncule_rampante
+[^7]: https://www.researchgate.net/publication/306167485_Phytochemical_analysis_and_cardiotonic_activity_of_methanolic_extract_of_Ranunculus_muricatus_Linn_in_isolated_rabbit_heart
+[^8]: https://fr.wikipedia.org/wiki/Renoncule_%C3%A2cre
+[^9]: https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12019
+[^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
