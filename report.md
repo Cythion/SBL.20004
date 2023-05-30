@@ -13,9 +13,6 @@ Group A
 
 ## Introduction
 
-Some words on the background of your projects.
-Which plants did you select and why ?
-
 Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using toxins to deal with adversaries. These compounds allow the plant to defend against potential predators by disincentivicing their consumption. 
 
 One of these toxic compunds is aconitine, a toxic alkaloid found in Aconitum, that acts on sodium-ion channels and inhibits conformational change of the channel protein. This inhibition blocks membrane repolerization and causes the premature exitation of afflicted neurons. Exposure to aconitine can lead to an arrhythmic heartbeat, nausea, vomiting and systemic paralysis, and with an LD50 of around 0.12-0.2mg/kg it is save to say that arconitine is a very potent toxin [^11].
