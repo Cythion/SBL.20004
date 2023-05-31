@@ -13,17 +13,13 @@ Group A
 
 ## Introduction
 
-Some words on the background of your projects.
-Which plants did you select and why ?
+Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using toxins to deal with adversaries. These compounds allow the plant to defend against potential predators by disincentivicing their consumption. 
 
-Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really avaliable to them. Some plant are thus using toxins to deal with adversaries. These compounds allow the plant to defend against potential predators by disincentivicing consumption. 
+One of these toxic compunds is aconitine, a toxic alkaloid found in Aconitum, that acts on sodium-ion channels and inhibits conformational change of the channel protein. This inhibition blocks membrane repolerization and causes the premature exitation of afflicted neurons. Exposure to aconitine can lead to an arrhythmic heartbeat, nausea, vomiting and systemic paralysis, and with an LD50 of around 0.12-0.2mg/kg it is save to say that arconitine is a very potent toxin [^11].
 
-One of these toxic compunds, used by plants is aconitine a neurotoxin, found in Aconitum, that acts on sodium-ion channels and inhibits conformational changes of the channel protein. This inhibition blocks membrane repolerization and without membrane potential neurons are no longer able to work. Exposure to a high concentration of aconitine can lead to paralysis. 
+Aconitum on the other hand are hardly the only toxic plants in nature and neurotoxiological compunds can also be found in other species, like Delphinium. What makes this interesting, is the fact that these toxins are end-products of a multi-step biosynthesis pathways and if plants produce aconitine or aconitine derivates then there should be similarities between these synthesis pathways. To test this we chose multiple species of aconitum, delphinium and ranunculus and analyzed their metabolites, to verify these suspected similarities. 
 
-Aconitum are hardly the only toxic plants in nature and others exist that also target neurons with their toxic compunds, but the mode of action of these toxins may vary from plant to plant and this is one of the questions that we were interested in: Are there common overslaps in plant metabolites between toxic species and what are they.  
-
-
-
+The choice of aconitum was an easy one, because it contains the sought after aconitine and could be useful as a positive control in our measurements. Delphinium was also a clear choise, due to the fact that some delphinium species can contain arconitum and thus might provide additional information on the synthesis pathway. As for Ranunculus, these plants also stand amidst the roster of poisenous plants and caught our attention in that regard [^12].
 
 ## Material & Methods
 
@@ -106,7 +102,7 @@ Some conclusion that you could get out of this preliminary study.
 
 ## References
 
-Note that you can make a footnote like this [^1]
+Note that you can make a footnote like this[^1]
 
 [^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
 [^2]: https://pubs.rsc.org/en/content/articlehtml/2020/ra/d0ra00813c
@@ -118,3 +114,5 @@ Note that you can make a footnote like this [^1]
 [^8]: https://fr.wikipedia.org/wiki/Renoncule_%C3%A2cre
 [^9]: https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12019
 [^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
+[^11]: Ameri, A. The effects of Aconitum alkaloids on the central nervous system. Progress in Neurobiology 56, 211-235 (1998).
+[^12]: Hunnius pharmazeutisches Wörterbuch. (de Gruyter, 1998).
