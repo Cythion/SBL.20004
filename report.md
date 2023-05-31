@@ -88,11 +88,11 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 *Figure 1: Color Code*
 ![aconitine](pictures/aconitine.png)
 
-*Figure 2: Aconitine cluster with aconitine (646.3222) and 3-Acetylaconitine (688.3325)*
+*Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
 
 ![aconitine](pictures/aconic_acid.png)
 
-*Figure 3: Aconic acid*
+*Figure 3: Aconic acid* [^15]
 
 ![aconitine](pictures/aconine.png)
 
@@ -102,12 +102,12 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 ![aconitine](pictures/methyllycaconitine_perchlorate.png)
 
 
-*Figure 5: methyllycaconitine perchlorate only on delphinium, but linked with aconitum*
+*Figure 5: methyllycaconitine perchlorate [^16] only on delphinium, but linked with aconitum*
 
 ![aconitine](pictures/lycoctonine.png)
 
 
-*Figure 6: lycoctonine*
+*Figure 6: lycoctonine* [^17]
 
 ![aconitine](pictures/napelline.png)
 
@@ -144,3 +144,10 @@ Note that you can make a footnote like this[^1]
 [^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
 [^11]: Ameri, A. The effects of Aconitum alkaloids on the central nervous system. Progress in Neurobiology 56, 211-235 (1998).
 [^12]: Hunnius pharmazeutisches Wörterbuch. (de Gruyter, 1998).
+[^13]: https://pubchem.ncbi.nlm.nih.gov/compound/245005
+[^14]: https://pubchem.ncbi.nlm.nih.gov/compound/21599000
+[^15]: https://pubchem.ncbi.nlm.nih.gov/compound/14372240
+[^16]: https://pubchem.ncbi.nlm.nih.gov/compound/102601948
+[^17]: https://pubchem.ncbi.nlm.nih.gov/compound/99924
+
+
