@@ -86,6 +86,7 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 ![Color_Code](pictures/Color_Code.jpg) 
 
 *Figure 1: Color Code*
+
 ![aconitine](pictures/aconitine.png)
 
 *Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
