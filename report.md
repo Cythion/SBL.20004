@@ -84,7 +84,23 @@ The choice of aconitum was an easy one, because it contains the sought after aco
     1. Visualization of molecular network [Molecular Newtork File]()
 ## Results
 
+![aconitine](pictures\aconitine.png)
+*Figure 1: Aconitine cluster with aconitine (646.3222) and 3-Acetylaconitine (688.3325)*
 
+![aconitine](pictures\aconic_acid.png)
+*Figure 2: Aconic acid*
+
+![aconitine](pictures\aconine.png)
+*Figure 3: Aconine*
+
+![aconitine](pictures\methyllycaconitine_perchlorate.png)
+*Figure 4: methyllycaconitine perchlorate only on delphinium, but linked with aconitum*
+
+![aconitine](pictures\lycoctonine.png)
+*Figure 5: lycoctonine*
+
+![aconitine](pictures\napelline.png)
+*Figure 6: napelline*
 
 ### MS1
 
