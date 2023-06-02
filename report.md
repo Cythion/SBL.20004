@@ -98,7 +98,7 @@ Each plant we analyzed has it's own color code (Figure 1). In addition, each col
 
 *Figure 1: Color Code*
 
-Aconitine has been annotated among the compounds detected through mass spectrometry(Figure 2). It's interesting, because aconitine and 3-acetylaconitine are present in high quantity, but we still have other compounds that have been detected in lower quantity, and are not annotated. So we can imagine that these are some other similar compounds or precursors of the aconitine. Without much suprise, this cluster shows that these compounds are only present in aconitum genus.
+Aconitine has been annotated among the compounds detected through mass spectrometry (Figure 2). It's interesting, because aconitine and 3-acetylaconitine are present in high quantity, but we still have other compounds that have been detected in lower quantity, and are not annotated. So we can imagine that these are some other similar compounds or precursors of the aconitine. Without much suprise, this cluster shows that these compounds are only present in aconitum genus.
 
 ![aconitine](pictures/aconitine.png)
 
@@ -111,7 +111,7 @@ We have also found aconine, that is present on some aconitum, delphinium and ran
 
 *Figure 3: Aconine*
 
-methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 5 and 6). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
+methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (Figures 4 and 5). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
 
 ![methyllcaconitine perchlorate](pictures/methyllycaconitine_perchlorate.png)
 
@@ -123,7 +123,7 @@ methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphin
 
 *Figure 5: lycoctonine* [^17]
 
-A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 7). 
+A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (Figure 6). 
 
 ![aconitine](pictures/napelline.png)
 
