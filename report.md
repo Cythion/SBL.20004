@@ -90,17 +90,11 @@ Each plant we analyzed has it's own color code (Figure 1). In addition, each col
 
 *Figure 1: Color Code*
 
-Aconitine has been found. Here is the cluster we found on cytoscape (figure 2). It's interesting, because aconitine and 3-acetylaconitine are present in high quantity, but we still have other compounds that have been detected in lower quantity, and are not annotated. So we can imagine that these are some other similar compounds or precursors of the aconitine. Without much suprise, this cluster shows that these compounds are only present in aconitum genus.
+Aconitine has been annotated among the compounds detected through mass spectrometry(figure 2). It's interesting, because aconitine and 3-acetylaconitine are present in high quantity, but we still have other compounds that have been detected in lower quantity, and are not annotated. So we can imagine that these are some other similar compounds or precursors of the aconitine. Without much suprise, this cluster shows that these compounds are only present in aconitum genus.
 
 ![aconitine](pictures/aconitine.png)
 
 *Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
-
-Didn't find any reference for aconic acid to be linked with aconitine
-
-![aconic acid](pictures/aconic_acid.png)
-
-*Figure 3: Aconic acid* [^15]
 
 We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (figure 4). This is a non toxic alkaloid, known to be produced by aconitum carmichaelii [^20].
 
