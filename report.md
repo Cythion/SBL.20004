@@ -128,7 +128,14 @@ There have been arround 3500 hits
 ## Conclusion
 
 Preliminary data shows that the measurement techniques used in this experiment are indeed able to detect aconitin or aconitine adjacent molecules in aconitum plants (Fig. 2). In other nodes the presence of aconine was also detected, mainly in aconitum napellus. This compound is a degragation product of aconitine[^18] and even though it is less toxic than aconitin itself it still is shows effects on differentiating cells. One study has shown that aconine is able to inhibit osteoclast differentiation, in mouse leukemic monocyte/macrophage cell line RAW264.7, through the indirect inhibition of NF-kappaB signalling[^19].
+
 In an other cluster methyllycaconitine perchlorate[^16] was found and it seems to form a main divide in the cluster with clear seperation between aconitum and delphinium (Fig. 5). This could mean that delphinium has its own aconitin variant which can still be related to the version found in aconitum plants.
+
+Other toxic compound found in this experiment were lycoctonine, known to be found in delphinium elatum[^4], and napelline, known to be in aconitum napellus[^10]. Besides showing up in the known plant we also could verify their presence in other member of their genus. Hinting at the interconnectivity of these toxins, wich we were trying to show in this preliminary study.
+
+As for Ranunculus, there we unfortunatly did not find good connections to the other two plants and even the signiture toxin, ranunculin, was not present in our data, although this might be due to the high volatility of this compound. 
+
+
 
 ## References
 
