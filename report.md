@@ -174,7 +174,7 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^11]: https://www.sciencedirect.com/science/article/abs/pii/S0301008298000379
 
-[^12]: Hunnius pharmazeutisches Wörterbuch. (de Gruyter, 1998).
+[^12]: https://swbplus.bsz-bw.de/cgi-bin/result_katan.pl?item=bsz061523577inh.htm
 
 [^13]: https://pubchem.ncbi.nlm.nih.gov/compound/245005
 
