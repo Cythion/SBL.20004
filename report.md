@@ -90,22 +90,28 @@ Each plant we analyzed has it's own color code (Figure 1). In addition, each col
 
 *Figure 1: Color Code*
 
-
+Aconitine has been found. Here is the cluster we found on cytoscape (figure 2). It's interesting, because aconitine and 3-acetylaconitine are present in high quantity, but we still have other compounds that have been detected in lower quantity, and are not annotated. So we can imagine that these are some other similar compounds or precursors of the aconitine. Without much suprise, this cluster shows that these compounds are only present in aconitum genus.
 
 ![aconitine](pictures/aconitine.png)
 
 *Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
 
-![aconitine](pictures/aconic_acid.png)
+Didn't find any reference for aconic acid to be linked with aconitine
+
+![aconic acid](pictures/aconic_acid.png)
 
 *Figure 3: Aconic acid* [^15]
 
-![aconitine](pictures/aconine.png)
+We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (figure 4). This is a non toxic alkaloid, known to be produced by aconitum carmichaelii [^20].
+
+![aconine](pictures/aconine.png)
 
 
 *Figure 4: Aconine*
 
-![aconitine](pictures/methyllycaconitine_perchlorate.png)
+methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 5 and 6). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
+
+![methyllcaconitine perchlorate](pictures/methyllycaconitine_perchlorate.png)
 
 
 *Figure 5: methyllycaconitine perchlorate [^16] only on delphinium, but linked with aconitum*
@@ -115,8 +121,9 @@ Each plant we analyzed has it's own color code (Figure 1). In addition, each col
 
 *Figure 6: lycoctonine* [^17]
 
-![aconitine](pictures/napelline.png)
+A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 7). 
 
+![aconitine](pictures/napelline.png)
 
 *Figure 7: napelline*
 
@@ -183,6 +190,9 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^19]: Zeng, X. et al. Aconine inhibits RANKL-induced osteoclast differentiation in RAW264.7 cells by suppressing NF-ÎºB and NFATc1 activation and DC-STAMP expression. Acta Pharmacol Sin 37, 255-263 (2016).
 
+[^20]: https://pubchem.ncbi.nlm.nih.gov/compound/Aconine
+
+[^21]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7450011/
 
 
 
