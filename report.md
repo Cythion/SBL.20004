@@ -71,7 +71,7 @@ Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylacon
 
 ### Data treatment
 
-- MZ-Mine [MZ-Mine File](https://github.com/Cythion/SBL.20004/blob/main/MZ_mine_all.mgf)
+- MZ-Mine [MZ-Mine File](https://github.com/Cythion/SBL.20004/blob/main/MZ_mine_all.mgf) [^1]
     1. Data Import
     2. MS peak detection
     3. Chromatogram building 
