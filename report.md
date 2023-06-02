@@ -45,7 +45,7 @@ Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylacon
     - Ranunculus arvensis
     - Ranunculus muricatus
     - Ranunculus acris friesianus
-    - Aconitum carmichaelii () [^9]
+    - Aconitum carmichaelii
     - Aconitum napellus
     - Aconitum variegatum
     - Aconitum vulparia
