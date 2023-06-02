@@ -96,14 +96,14 @@ Aconitine has been annotated among the compounds detected through mass spectrome
 
 *Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
 
-We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (figure 4). This is a non toxic alkaloid, known to be produced by aconitum carmichaelii [^20].
+We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (figure 3). This is a non toxic alkaloid, known to be produced by aconitum carmichaelii [^20].
 
 ![aconine](pictures/aconine.png)
 
 
 *Figure 3: Aconine*
 
-methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 5 and 6). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
+methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 4 and 5). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
 
 ![methyllcaconitine perchlorate](pictures/methyllycaconitine_perchlorate.png)
 
@@ -115,7 +115,7 @@ methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphin
 
 *Figure 5: lycoctonine* [^17]
 
-A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 7). 
+A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 6). 
 
 ![aconitine](pictures/napelline.png)
 
