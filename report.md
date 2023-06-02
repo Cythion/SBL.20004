@@ -111,7 +111,7 @@ We have also found aconine, that is present on some aconitum, delphinium and ran
 
 *Figure 3: Aconine*
 
-methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (Figures 4 and 5). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
+methyllcaconitine perchlorate, near from lycoctonine, has been found on delphinium (Figures 4 and 5). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
 
 ![methyllcaconitine perchlorate](pictures/methyllycaconitine_perchlorate.png)
 
