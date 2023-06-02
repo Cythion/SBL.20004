@@ -101,25 +101,25 @@ We have also found aconine, that is present on some aconitum, delphinium and ran
 ![aconine](pictures/aconine.png)
 
 
-*Figure 4: Aconine*
+*Figure 3: Aconine*
 
 methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 5 and 6). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
 
 ![methyllcaconitine perchlorate](pictures/methyllycaconitine_perchlorate.png)
 
 
-*Figure 5: methyllycaconitine perchlorate [^16] only on delphinium, but linked with aconitum*
+*Figure 4: methyllycaconitine perchlorate [^16] only on delphinium, but linked with aconitum*
 
 ![aconitine](pictures/lycoctonine.png)
 
 
-*Figure 6: lycoctonine* [^17]
+*Figure 5: lycoctonine* [^17]
 
 A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 7). 
 
 ![aconitine](pictures/napelline.png)
 
-*Figure 7: napelline*
+*Figure 6: napelline*
 
 ### MS1
 
