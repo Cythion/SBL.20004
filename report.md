@@ -81,11 +81,16 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 ### Data visualization 
 
 - Cytoscape 
-    1. Visualization of molecular network [Molecular Newtork File]()
+    1. Visualization of molecular network [Molecular Network File](data\molecular_network.cys)
 ## Results
+
+Each plant we analyzed has it's own color code (Figure 1). In addition, each color gradient represents the genus (green for *aconitum*, red for *delphinium* and blue for *ranunculus*).
+
 ![Color_Code](pictures/Color_Code.jpg) 
 
 *Figure 1: Color Code*
+
+
 
 ![aconitine](pictures/aconitine.png)
 
@@ -141,23 +146,41 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 
 [^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
+
 [^2]: https://pubs.rsc.org/en/content/articlehtml/2020/ra/d0ra00813c
+
 [^3]: https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/protoanemonin
+
 [^4]: https://fr.wikipedia.org/wiki/Delphinium_elatum
+
 [^5]: https://www.eagff.ch/fr/connaitre-les-plantes-des-prairies/autres-plantes/caracteristiques-par-espece/renoncule-a-feuilles-daconit
+
 [^6]: https://fr.wikipedia.org/wiki/Renoncule_rampante
+
 [^7]: https://www.researchgate.net/publication/306167485_Phytochemical_analysis_and_cardiotonic_activity_of_methanolic_extract_of_Ranunculus_muricatus_Linn_in_isolated_rabbit_heart
+
 [^8]: https://fr.wikipedia.org/wiki/Renoncule_%C3%A2cre
+
 [^9]: https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12019
+
 [^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
+
 [^11]: Ameri, A. The effects of Aconitum alkaloids on the central nervous system. Progress in Neurobiology 56, 211-235 (1998).
+
 [^12]: Hunnius pharmazeutisches Wörterbuch. (de Gruyter, 1998).
+
 [^13]: https://pubchem.ncbi.nlm.nih.gov/compound/245005
+
 [^14]: https://pubchem.ncbi.nlm.nih.gov/compound/21599000
+
 [^15]: https://pubchem.ncbi.nlm.nih.gov/compound/14372240
+
 [^16]: https://pubchem.ncbi.nlm.nih.gov/compound/102601948
+
 [^17]: https://pubchem.ncbi.nlm.nih.gov/compound/99924
+
 [^18]: Li, H. Q. et al. Supramolecular structure, in vivo biological activities and molecular-docking-based potential cardiotoxic exploration of aconine hydrochloride monohydrate as a novel salt form. Acta Crystallogr B Struct Sci Cryst Eng Mater 76, 208-224 (2020).
+
 [^19]: Zeng, X. et al. Aconine inhibits RANKL-induced osteoclast differentiation in RAW264.7 cells by suppressing NF-ÎºB and NFATc1 activation and DC-STAMP expression. Acta Pharmacol Sin 37, 255-263 (2016).
 
 
