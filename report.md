@@ -172,7 +172,7 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
 
-[^11]: Ameri, A. The effects of Aconitum alkaloids on the central nervous system. Progress in Neurobiology 56, 211-235 (1998).
+[^11]: https://www.sciencedirect.com/science/article/abs/pii/S0301008298000379
 
 [^12]: Hunnius pharmazeutisches Wörterbuch. (de Gruyter, 1998).
 
@@ -186,9 +186,9 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^17]: https://pubchem.ncbi.nlm.nih.gov/compound/99924
 
-[^18]: Li, H. Q. et al. Supramolecular structure, in vivo biological activities and molecular-docking-based potential cardiotoxic exploration of aconine hydrochloride monohydrate as a novel salt form. Acta Crystallogr B Struct Sci Cryst Eng Mater 76, 208-224 (2020).
+[^18]: https://pubmed.ncbi.nlm.nih.gov/32831223/
 
-[^19]: Zeng, X. et al. Aconine inhibits RANKL-induced osteoclast differentiation in RAW264.7 cells by suppressing NF-ÎºB and NFATc1 activation and DC-STAMP expression. Acta Pharmacol Sin 37, 255-263 (2016).
+[^19]: https://www.nature.com/articles/aps201585.pdf
 
 [^20]: https://pubchem.ncbi.nlm.nih.gov/compound/Aconine
 
