@@ -102,14 +102,14 @@ Aconitine has been annotated among the compounds detected through mass spectrome
 
 *Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
 
-We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (figure 3). This is a non toxic alkaloid, known to be produced by aconitum carmichaelii [^20].
+We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (figure 4). This is a non toxic alkaloid, known to be produced by aconitum carmichaelii [^20].
 
 ![aconine](pictures/aconine.png)
 
 
 *Figure 3: Aconine*
 
-methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 4 and 5). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
+methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphinium (figures 5 and 6). This is interesting, because we have a cluster composed of a part only found in delphinium and a part only found in aconitum.
 
 ![methyllcaconitine perchlorate](pictures/methyllycaconitine_perchlorate.png)
 
@@ -121,7 +121,7 @@ methyllcaconitine perchlorate, near from lycoctonine, hase been found on delphin
 
 *Figure 5: lycoctonine* [^17]
 
-A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 6). 
+A compound has been annotated as napelline, a potential anticancer [^21]. It's present on all analyzed aconitum and delphinium species (figure 7). 
 
 ![aconitine](pictures/napelline.png)
 
@@ -139,7 +139,7 @@ There have been arround 3500 hits
 
 ## Conclusion
 
-Preliminary data shows that the measurement techniques used in this experiment are indeed able to detect aconitin or aconitin adjacent molecules in aconitum plants (Fig. 2). In other nodes the presence of aconine was also detected, mainly in aconitum napellus. This compound is a degragation product of aconitin[^18] and even though it is less toxic than aconitin itself it still is shows effects on differentiating cells. One study has shown that aconine is able to inhibit osteoclast differentiation, in mouse leukemic monocyte/macrophage cell line RAW264.7, through the indirect inhibition of NF-kappaB signalling[^19].
+Preliminary data shows that the measurement techniques used in this experiment are indeed able to detect aconitin or aconitin adjacent molecules in aconitum plants (Fig. 2). In other nodes the presence of aconine was also detected, mainly in aconitum napellus. This compound can be obtained by protonation of aconitin[^18] and it was present, in small amounts in delphinium (Fig. 3), but the presence of aconitine was not. This could mean that aconine could be a potential precursor, produced by both delphinium and aconitum, but only aconitum might deprotonate this compound to reach aconitin. Aconine even though it is less toxic than aconitin itself it still shows effects on differentiating cells. One study has shown that aconine is able to inhibit osteoclast differentiation, in mouse leukemic monocyte/macrophage cell line RAW264.7, through the indirect inhibition of NF-kappaB signalling[^19].
 
 In an other cluster methyllycaconitine perchlorate[^16] was found and it seems to form a main divide in the cluster with clear seperation between aconitum and delphinium (Fig. 5). This could mean that delphinium has its own aconitin variant which can still be related to the version found in aconitum plants.
 
