@@ -159,8 +159,6 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^5]: https://www.eagff.ch/fr/connaitre-les-plantes-des-prairies/autres-plantes/caracteristiques-par-espece/renoncule-a-feuilles-daconit
 
-[^6]: https://www.researchgate.net/profile/Tserentsoo-Byambaa/publication/368841477_In_vitro_Study_Results_of_the_Ranunculus_Repens_L's_Effect_on_Some_Cancer_Cells/links/63fd567a57495059454ae129/In-vitro-Study-Results-of-the-Ranunculus-Repens-Ls-Effect-on-Some-Cancer-Cells.pdf
-
 [^7]: https://www.researchgate.net/publication/306167485_Phytochemical_analysis_and_cardiotonic_activity_of_methanolic_extract_of_Ranunculus_muricatus_Linn_in_isolated_rabbit_heart
 
 [^8]: https://www.jstor.org/stable/2257092?casa_token=3riTCZ5WLE0AAAAA%3AKGg_kqZcARtyAb3Mo_fskVmV_xhVNB3B4HL9bpL1t1ibIW18Uq4LQ3jOFyOLdFAuMd3mkjLq1PnAQW5k3o-0QKzVNySPauWKkZGfp-NMoYuJMDMb
