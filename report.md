@@ -158,19 +158,19 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^3]: https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/protoanemonin
 
-[^4]: https://fr.wikipedia.org/wiki/Delphinium_elatum
+[^4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8028511/
 
 [^5]: https://www.eagff.ch/fr/connaitre-les-plantes-des-prairies/autres-plantes/caracteristiques-par-espece/renoncule-a-feuilles-daconit
 
-[^6]: https://fr.wikipedia.org/wiki/Renoncule_rampante
+[^6]: https://www.researchgate.net/profile/Tserentsoo-Byambaa/publication/368841477_In_vitro_Study_Results_of_the_Ranunculus_Repens_L's_Effect_on_Some_Cancer_Cells/links/63fd567a57495059454ae129/In-vitro-Study-Results-of-the-Ranunculus-Repens-Ls-Effect-on-Some-Cancer-Cells.pdf
 
 [^7]: https://www.researchgate.net/publication/306167485_Phytochemical_analysis_and_cardiotonic_activity_of_methanolic_extract_of_Ranunculus_muricatus_Linn_in_isolated_rabbit_heart
 
-[^8]: https://fr.wikipedia.org/wiki/Renoncule_%C3%A2cre
+[^8]: https://www.jstor.org/stable/2257092?casa_token=3riTCZ5WLE0AAAAA%3AKGg_kqZcARtyAb3Mo_fskVmV_xhVNB3B4HL9bpL1t1ibIW18Uq4LQ3jOFyOLdFAuMd3mkjLq1PnAQW5k3o-0QKzVNySPauWKkZGfp-NMoYuJMDMb
 
 [^9]: https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12019
 
-[^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
+[^10]: https://www.tandfonline.com/doi/abs/10.1080/15563650500357594
 
 [^11]: Ameri, A. The effects of Aconitum alkaloids on the central nervous system. Progress in Neurobiology 56, 211-235 (1998).
 
