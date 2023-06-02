@@ -27,7 +27,7 @@ Delphinium: 14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine
 
 Ranunculus: protoanemonin, ranunculin [^3] [^5] [^7] [^8]
 
-Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylaconitine, jesaconitine, benzoylmesaconitine, lycaconitine, neoline, neopelline and benzoylhypaconitine [^9] [^10]
+Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylaconitine, jesaconitine, benzoylmesaconitine, lycaconitine, neoline, neopelline, benzoylhypaconitine [^9] [^10]
 
 ## Material & Methods
 
