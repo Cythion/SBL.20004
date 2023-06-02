@@ -135,9 +135,7 @@ Other toxic compound found in this experiment were lycoctonine, known to be foun
 
 As for Ranunculus, there we unfortunatly did not find good connections to the other two plants and even the signiture toxin, ranunculin, was not present in our data, although this might be due to the high volatility of this compound, which we might not be able to measure with our current setup.
 
-All in all it shows that toxic compounds and their derivates can be found across different species and genuses. 
-
-
+All in all it shows that toxic compounds and their derivates can be found across different species and genuses and with some changes to the experiment, it might even be possible to detect the other compounds, like the aforementioned ranunculin, to see whenever these group of toxins might have similar compounds in the chosen subset of plants. One change that comes to mind would be to try sample extraction with more apolar solvents and chaning the analytical system to GC-MS, this might help to improve the extraction efficiency of more volatile substances.
 
 ## References
 
