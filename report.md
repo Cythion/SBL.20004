@@ -24,7 +24,9 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 ### Toxic compounds known to be present on the collected species
 
 Delphinium: 14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline [^4]
+
 Ranunculus: protoanemonin, ranunculin [^3] [^5] [^7] [^8]
+
 Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylaconitine, jesaconitine, benzoylmesaconitine, lycaconitine, neoline, neopelline and benzoylhypaconitine [^9] [^10]
 
 ## Material & Methods
