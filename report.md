@@ -104,7 +104,7 @@ Aconitine has been annotated among the compounds detected through mass spectrome
 
 *Figure 2: Aconitine cluster with aconitine [^13] (646.3222) and 3-Acetylaconitine [^14] (688.3325)* 
 
-We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (Figure 4). This compound is a less toxic alkaloid as aconitine, known to be produced by aconitum carmichaelii [^20].
+We have also found aconine, that is present on some aconitum, delphinium and ranunculus species (Figure 3). This compound is a less toxic alkaloid as aconitine, known to be produced by aconitum carmichaelii [^20].
 
 ![aconine](pictures/aconine.png)
 
