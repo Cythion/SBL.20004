@@ -15,7 +15,7 @@ Group A
 
 Plants are one of the least mobile organisms on this planet and this can pose a problem when dealing with predators, because the option to flee is not really available to them. Some plants are thus using toxins to deal with adversaries. These compounds allow the plant to defend against potential predators by disincentivicing their consumption. 
 
-One of these toxic compunds is aconitine, a toxic alkaloid found in Aconitum, that acts on sodium-ion channels and inhibits conformational change of the channel protein. This inhibition blocks membrane repolerization and causes the premature excitation of afflicted neurons. Exposure to aconitine can lead to an arrhythmic heartbeat, nausea, vomiting and systemic paralysis, and with an LD50 of around 0.12-0.2mg/kg it is safe to say that arconitine is a very potent toxin [^11].
+One of these toxic compunds is aconitine, a toxic alkaloid found in Aconitum, that acts on sodium-ion channels and inhibits conformational change of the channel protein. This inhibition blocks membrane repolarization and causes the premature excitation of afflicted neurons. Exposure to aconitine can lead to an arrhythmic heartbeat, nausea, vomiting and systemic paralysis, and with an LD50 of around 0.12-0.2mg/kg it is safe to say that arconitine is a very potent toxin [^11].
 
 Aconitum on the other hand are hardly the only toxic plants in nature and neurotoxiological compounds can also be found in other species, like Delphinium. What makes this interesting, is the fact that these toxins are end-products of a multi-step biosynthesis pathways and if plants produce aconitine or aconitine derivates then there should be similarities between these synthesis pathways. To test this we chose multiple species of aconitum, delphinium and ranunculus and analyzed their metabolites, to verify these suspected similarities. 
 
@@ -158,19 +158,19 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^3]: https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/protoanemonin
 
-[^4]: https://fr.wikipedia.org/wiki/Delphinium_elatum
+[^4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8028511/
 
 [^5]: https://www.eagff.ch/fr/connaitre-les-plantes-des-prairies/autres-plantes/caracteristiques-par-espece/renoncule-a-feuilles-daconit
 
-[^6]: https://fr.wikipedia.org/wiki/Renoncule_rampante
+[^6]: https://www.researchgate.net/profile/Tserentsoo-Byambaa/publication/368841477_In_vitro_Study_Results_of_the_Ranunculus_Repens_L's_Effect_on_Some_Cancer_Cells/links/63fd567a57495059454ae129/In-vitro-Study-Results-of-the-Ranunculus-Repens-Ls-Effect-on-Some-Cancer-Cells.pdf
 
 [^7]: https://www.researchgate.net/publication/306167485_Phytochemical_analysis_and_cardiotonic_activity_of_methanolic_extract_of_Ranunculus_muricatus_Linn_in_isolated_rabbit_heart
 
-[^8]: https://fr.wikipedia.org/wiki/Renoncule_%C3%A2cre
+[^8]: https://www.jstor.org/stable/2257092?casa_token=3riTCZ5WLE0AAAAA%3AKGg_kqZcARtyAb3Mo_fskVmV_xhVNB3B4HL9bpL1t1ibIW18Uq4LQ3jOFyOLdFAuMd3mkjLq1PnAQW5k3o-0QKzVNySPauWKkZGfp-NMoYuJMDMb
 
 [^9]: https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12019
 
-[^10]: https://fr.wikipedia.org/wiki/Aconitum_napellus
+[^10]: https://www.tandfonline.com/doi/abs/10.1080/15563650500357594
 
 [^11]: https://www.sciencedirect.com/science/article/abs/pii/S0301008298000379
 
