@@ -127,7 +127,7 @@ There have been arround 3500 hits
 
 ## Conclusion
 
-Some conclusion that you could get out of this preliminary study.
+Preliminary data shows that the measurement techniques used in this experiment are indeed able to detect aconitin or aconitine adjacent molecules in aconitum plants (Fig. 2). 
 
 ## References
 
