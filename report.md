@@ -27,7 +27,7 @@ Delphinium: 14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine
 
 Ranunculus: protoanemonin, ranunculin [^3] [^5] [^7] [^8]
 
-Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylaconitine, jesaconitine, benzoylmesaconitine, lycaconitine, neoline, neopelline and benzoylhypaconitine [^9] [^10]
+Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylaconitine, jesaconitine, benzoylmesaconitine, lycaconitine, neoline, neopelline, benzoylhypaconitine [^9] [^10]
 
 ## Material & Methods
 
@@ -75,7 +75,7 @@ Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylacon
     1. Data Import
     2. MS peak detection
     3. Chromatogram building 
-    4. Chromatogram deconvolution <!--For: Peak identification, Improove peak shape ect by adding the time factor of LC == 3D -->
+    4. Chromatogram deconvolution <!--For: Peak identification, Improves peak shape ect by adding the time factor of LC == 3D -->
     5. Isotope grouping
     6. Feature alignment
     7. Manual vlaidation 
