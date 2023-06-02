@@ -127,7 +127,7 @@ There have been arround 3500 hits
 
 ## Conclusion
 
-Preliminary data shows that the measurement techniques used in this experiment are indeed able to detect aconitin or aconitine adjacent molecules in aconitum plants (Fig. 2). 
+Preliminary data shows that the measurement techniques used in this experiment are indeed able to detect aconitin or aconitine adjacent molecules in aconitum plants (Fig. 2). In other nodes the presence of aconine was also detected, mainly in aconitum napellus. This compound is a degragation product of aconitine[^18] and even though it is less toxic than aconitin itself it still is shows effects on differentiating cells. One study has shown that aconine is able to inhibit osteoclast differentiation, in mouse leukemic monocyte/macrophage cell line RAW264.7, through the indirect inhibition of NF-kappaB signalling[^19].
 
 ## References
 
@@ -150,5 +150,9 @@ Note that you can make a footnote like this[^1]
 [^15]: https://pubchem.ncbi.nlm.nih.gov/compound/14372240
 [^16]: https://pubchem.ncbi.nlm.nih.gov/compound/102601948
 [^17]: https://pubchem.ncbi.nlm.nih.gov/compound/99924
+[^18]: Li, H. Q. et al. Supramolecular structure, in vivo biological activities and molecular-docking-based potential cardiotoxic exploration of aconine hydrochloride monohydrate as a novel salt form. Acta Crystallogr B Struct Sci Cryst Eng Mater 76, 208-224 (2020).
+[^19]: Zeng, X. et al. Aconine inhibits RANKL-induced osteoclast differentiation in RAW264.7 cells by suppressing NF-ÎºB and NFATc1 activation and DC-STAMP expression. Acta Pharmacol Sin 37, 255-263 (2016).
+
+
 
 
