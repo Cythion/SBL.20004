@@ -81,7 +81,7 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 ### Data visualization 
 
 - Cytoscape 
-    1. Visualization of molecular network [Molecular Network File](data\molecular_network.cys)
+    1. Visualization of molecular network [Molecular Network File](data/molecular_network.cys)
 ## Results
 
 Each plant we analyzed has it's own color code (Figure 1). In addition, each color gradient represents the genus (green for *aconitum*, red for *delphinium* and blue for *ranunculus*).
