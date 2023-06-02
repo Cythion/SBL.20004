@@ -21,6 +21,14 @@ Aconitum, on the other hand, are hardly the only toxic plants in nature and neur
 
 The choice of aconitum was an easy one, because it contains the sought after aconitine and could be useful as a positive control in our measurements. Delphinium was also a clear choice, due to the fact that some delphinium species can contain aconitine and thus might provide additional information on the synthesis pathway. As for Ranunculus, these plants also stand amidst the roster of poisenous plants and caught our attention in that regard [^12].
 
+### Toxic compounds known to be present on the collected species
+
+Delphinium: 14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline [^4]
+
+Ranunculus: protoanemonin, ranunculin [^3] [^5] [^7] [^8]
+
+Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylaconitine, jesaconitine, benzoylmesaconitine, lycaconitine, neoline, neopelline and benzoylhypaconitine [^9] [^10]
+
 ## Material & Methods
 
 ### Sample collection
@@ -28,19 +36,19 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 - Collection site(s):
     - Botanical garden of the University of Fribourg
 - Collected species: 
-    - Delphinium elatum (14-O-deacetylnudiculine, delpheline, deltaline, elatine, lycoctonine, méthyllycaconitine, nudicauline) [^4]
-    - Delphinium caucasicum (not available precisely for this species)
-    - Ranunculus auricomus (protoanemonin) [^3]
-    - Ranunculus aconitifolius (few ranunculin, very low toxicity) [^5]
-    - Ranunculus repens (ranunculin) [^6] --> ranunculin disapears when plant is dried, if we don't have it this is normal
-    - Ranunculus gramineus (protoanemonin)
-    - Ranunculus arvensis (protoanemonin)
-    - Ranunculus muricatus (substances have not been isolated, but it's toxicity and medicinal properties have been proven on mices) [^7]
-    - Ranunculus acris friesianus (ranunculin) [^8]
-    - Aconitum carmichaelii (aconitine, mesaconitine, hypaconitine, benzoylaconitine, benzoylmesaconitine, and benzoylhypaconitine) [^9]
-    - Aconitum napellus (aconitine, aconine, capeline, hypoaconitine, jesaconitine, lycaconitine, mésaconitine, néoline, néopelline) [^10] --> one of the most toxic european plants
-    - Aconitum variegatum (no clear information but also very toxic)
-    - Aconitum vulparia (no clear information but also very toxic)
+    - Delphinium elatum
+    - Delphinium caucasicum
+    - Ranunculus auricomus
+    - Ranunculus aconitifolius
+    - Ranunculus repens
+    - Ranunculus gramineus
+    - Ranunculus arvensis
+    - Ranunculus muricatus
+    - Ranunculus acris friesianus
+    - Aconitum carmichaelii () [^9]
+    - Aconitum napellus
+    - Aconitum variegatum
+    - Aconitum vulparia
 - iNaturalist entries.
     - [Observation Data](https://github.com/Cythion/SBL.20004/blob/main/data/observations-328542.csv)
 
@@ -55,7 +63,7 @@ The choice of aconitum was an easy one, because it contains the sought after aco
 6. Part of the supernatant was then transferred into a glass vial for the measurement and part was storred in another vial as reserve.
 7. Samples were then measured in the LC-MS. 
 
-### LCMS Analysis
+### LC-MS Analysis
 
 - [LC conditions verbose](https://github.com/Cythion/SBL.20004/blob/main/lc_conditions.txt) 
     - The LC program consists of a 12min run in which a first gradiant ramps up the acetonitrile (ACN) composition from 5% up to 100% over the course of 6min. After that it keeps this up for another 2min before switching back to the initial 5% ACN / 95% water mixture. With the initial conditions the progam equilibrates for 4m and reaching the 12min mark. The flow rate and column temperature stay the same during the whole run, at 0.600mL/min and 40°C respectivly.
