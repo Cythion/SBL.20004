@@ -175,8 +175,6 @@ All in all it shows that toxic compounds and their derivates can be found across
 
 [^14]: https://pubchem.ncbi.nlm.nih.gov/compound/21599000
 
-[^15]: https://pubchem.ncbi.nlm.nih.gov/compound/14372240
-
 [^16]: https://pubchem.ncbi.nlm.nih.gov/compound/102601948
 
 [^17]: https://pubchem.ncbi.nlm.nih.gov/compound/99924
