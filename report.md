@@ -63,7 +63,7 @@ Aconitum: aconitine, aconine, capeline, mesaconitine, hypoaconitine, benzoylacon
 6. Part of the supernatant was then transferred into a glass vial for the measurement and part was storred in another vial as reserve.
 7. Samples were then measured in the LC-MS. 
 
-### LCMS Analysis
+### LC-MS Analysis
 
 - [LC conditions verbose](https://github.com/Cythion/SBL.20004/blob/main/lc_conditions.txt) 
     - The LC program consists of a 12min run in which a first gradiant ramps up the acetonitrile (ACN) composition from 5% up to 100% over the course of 6min. After that it keeps this up for another 2min before switching back to the initial 5% ACN / 95% water mixture. With the initial conditions the progam equilibrates for 4m and reaching the 12min mark. The flow rate and column temperature stay the same during the whole run, at 0.600mL/min and 40°C respectivly.
