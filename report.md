@@ -133,9 +133,9 @@ In an other cluster methyllycaconitine perchlorate[^16] was found and it seems t
 
 Other toxic compound found in this experiment were lycoctonine, known to be found in delphinium elatum[^4], and napelline, known to be in aconitum napellus[^10]. Besides showing up in the known plant we also could verify their presence in other member of their genus. Hinting at the interconnectivity of these toxins, wich we were trying to show in this preliminary study.
 
-As for Ranunculus, there we unfortunatly did not find good connections to the other two plants and even the signiture toxin, ranunculin, was not present in our data, although this might be due to the high volatility of this compound, which we might not be able to measure with our current setup.
+As for Ranunculus, there we unfortunatly did not find good connections to the other two plants and even the signature toxin, ranunculin, was not present in our data, although this might be due to the high volatility of this compound, which we might not be able to measure with our current setup.
 
-All in all it shows that toxic compounds and their derivates can be found across different species and genuses and with some changes to the experiment, it might even be possible to detect the other compounds, like the aforementioned ranunculin, to see whenever these group of toxins might have similar compounds in the chosen subset of plants. One change that comes to mind would be to try sample extraction with more apolar solvents and chaning the analytical system to GC-MS, this might help to improve the extraction efficiency of more volatile substances.
+All in all it shows that toxic compounds and their derivates can be found across different species and genuses and with some changes to the experiment, it might even be possible to detect the other compounds, like the aforementioned ranunculin, to see whenever this group of toxins or similar compounds show up in the chosen subset of plants. One change that comes to mind would be to try sample extraction with more apolar solvents and chaning the analytical system to GC-MS, this might help to improve the extraction and detection efficiency of more volatile substances.
 
 ## References
 
