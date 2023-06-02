@@ -133,13 +133,14 @@ In an other cluster methyllycaconitine perchlorate[^16] was found and it seems t
 
 Other toxic compound found in this experiment were lycoctonine, known to be found in delphinium elatum[^4], and napelline, known to be in aconitum napellus[^10]. Besides showing up in the known plant we also could verify their presence in other member of their genus. Hinting at the interconnectivity of these toxins, wich we were trying to show in this preliminary study.
 
-As for Ranunculus, there we unfortunatly did not find good connections to the other two plants and even the signiture toxin, ranunculin, was not present in our data, although this might be due to the high volatility of this compound. 
+As for Ranunculus, there we unfortunatly did not find good connections to the other two plants and even the signiture toxin, ranunculin, was not present in our data, although this might be due to the high volatility of this compound, which we might not be able to measure with our current setup.
+
+All in all it shows that toxic compounds and their derivates can be found across different species and genuses. 
 
 
 
 ## References
 
-Note that you can make a footnote like this[^1]
 
 [^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
 [^2]: https://pubs.rsc.org/en/content/articlehtml/2020/ra/d0ra00813c
