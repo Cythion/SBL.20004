@@ -149,9 +149,6 @@ As for Ranunculus, there we unfortunatly did not find good connections to the ot
 
 All in all it shows that toxic compounds and their derivates can be found across different species and genuses.
 
-## References
-
-
 [^1]: https://ccms-ucsd.github.io/GNPSDocumentation/featurebasedmolecularnetworking-with-mzmine2/
 
 [^2]: https://pubs.rsc.org/en/content/articlehtml/2020/ra/d0ra00813c
